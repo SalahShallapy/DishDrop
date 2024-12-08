@@ -14,11 +14,7 @@ DishDrop is a feature-rich web application for ordering meals online. Built with
 
 ### Cart Overview
 
-![Project OverView](./public/cart.png)
-
 ### Checkout Overview
-
-![Project OverView](./public/checkout.png)
 
 ## **Features**
 
