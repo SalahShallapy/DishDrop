@@ -82,7 +82,6 @@ OpinionBoard
 │
 └───backend
 │   │    app.js
-│   │    db.json
 │   │    package-lock.json
 │   │    package.json
 │   │
