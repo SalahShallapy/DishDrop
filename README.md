@@ -64,7 +64,7 @@ DishDrop is a feature-rich web application for ordering meals online. Built with
 ## Project Structure
 
 ```
-OpinionBoard
+DishDrop
 │      .gitignore
 │      .vite.config
 │      index.html
