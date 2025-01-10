@@ -1,4 +1,4 @@
-import Cart from "./components/Cart/Cart";
+import Cart from "./components/Carts/Cart";
 import Header from "./components/Header";
 import Meals from "./components/Meals/Meals";
 import Checkout from "./components/Checkout";
