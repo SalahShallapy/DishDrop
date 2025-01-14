@@ -166,7 +166,7 @@ To get started with the project locally:
 
 ## Note
 
-- This project's backend is locally setup and isn'ts running on a server so you have to follow the installing steps and start the backend server in order to see the fetched data on the frontend UI
+- This project's backend is locally setup and isn't running on a server so you have to follow the installing steps and start the backend server in order to see the fetched data on the frontend UI
 
 ## Contributing
 
