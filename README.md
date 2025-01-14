@@ -151,7 +151,7 @@ To get started with the project locally:
    ```bash
    npm start
    ```
-6. Navigate out of the backend directory to the main project directory:
+6. Navigate out of the backend directory into the main project directory:
    ```bash
    cd ..
    ```
