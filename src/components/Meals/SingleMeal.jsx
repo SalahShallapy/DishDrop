@@ -23,7 +23,7 @@ export default function SingleMeal({ meal }) {
           <p className="meal-item-description">{meal.description}</p>
         </div>
         <p className="meal-item-actions">
-          <Button onClick={handleAddMealToCart}>Add To Cart</Button>
+          <Button onClick={handleAddMealToCart}>AddTo Cart</Button>
         </p>
       </article>
     </li>
