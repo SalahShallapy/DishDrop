@@ -85,7 +85,7 @@ export default function Checkout() {
         <p>Your order was submitted successfully</p>
         <p>
           We will get back to you with more details via email within the next
-          few minutes.
+          few minutes
         </p>
         <p className="modal-actions">
           <Button onClick={handleFinish}>Okay</Button>
