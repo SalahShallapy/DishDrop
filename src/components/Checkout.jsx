@@ -82,7 +82,7 @@ export default function Checkout() {
         onClose={handleFinish}
       >
         <h2>Success!</h2>
-        <p>Your order was submitted successfully.</p>
+        <p>Your order was submitted successfully</p>
         <p>
           We will get back to you with more details via email within the next
           few minutes.
